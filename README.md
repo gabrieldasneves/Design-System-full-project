@@ -1,8 +1,6 @@
 # Design-System-full-project
 
-## This project was developed in Rocketseat's Ignite Lab. 
-
-Design system of a login page...
+## This project was developed in Rocketseat's Ignite Lab. I could learn and practice several tools for building a Design System such as Figma, React, StoryBook and TailwindCSS.
 
 <hr>
 
