@@ -2,9 +2,13 @@
 
 ## This project was developed in Rocketseat's Ignite Lab. I could learn and practice several tools for building a Design System such as Figma, React, StoryBook and TailwindCSS.
 
-<hr>
+Design patterns are solutions to software design problems that you repeatedly encounter in real-world application development. When you start a new project you don´t start coding. First of all we need to define the scope and features of the project. It's applyed in this project. Here I started with figma built interface, components in figma, definning patterns in figma ( colors, sizes, distances, interactions, etc), once in code editor, used Storybook to properly build a documentation to help both designers and programmers.
 
+<hr>
 <br>
+Project result:
+<img src="src\assets\interface.png" alt="Interface" title="Interface">
+
 
 <hr>
 Technologies used:
@@ -16,11 +20,22 @@ Technologies used:
 * [Radix UI](https://www.radix-ui.com/)
 * [TailwindCSS](https://tailwindcss.com/)
 
+In this project I was able to learn how to assemble a visual structure with Figma and how to port it to the code, also making data available for component testing via StoryBook, automated deployment with GitHub Actions and Front-End simulation in Vite.
+
+ Project in Figma:
+<img src="src\assets\figma_interface.png" alt="figma project" title="">
+<br>
+ Figma components pattern:
+<img src="src\assets\figma_components.png" alt="components" title="">
+<br>
+ Figma components pattern:
+<img src="src\assets\figma_colors.png" alt="colors" title="">
+
 <hr>
 
-<br>
+
 🚀  Run it:
-<hr>
+
 
 Clone this repository:
 
@@ -45,9 +60,11 @@ Run this command to to view the storybook docs
 ```sh
 $ npm run storybook
 ```
+ Storybook view:
+<img src="src\assets\storybook_print.png" alt="storybook" title="">
 
 
-## Layout do projeto
+## Layout
 You can view the layout through the link below:
 * [Figma](https://www.figma.com/file/OLUcPr2gfiJ75lc5utEXQa/Design-System?node-id=1%3A2)
 
